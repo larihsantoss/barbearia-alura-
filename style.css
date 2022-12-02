@@ -1,7 +1,30 @@
 body
 
 {text-align:center;
-background:#cccccc}
+background:#C791D5;}
+
 
 strong
 {color:purple}
+
+.principal
+{background:#C791D5;
+  padding:30px}
+
+.Beneficios
+{background:#C791D5;}
+
+ul
+{display:inline-block;
+vertical-align:top;
+width:20%;
+margin-right:15%;
+padding:20px}
+
+.itens 
+{text-align: left;
+font-style: italic;
+}
+
+.imagembeneficios
+{width:30%}
